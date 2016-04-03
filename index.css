@@ -1,5 +1,235 @@
-.test {
-  width: 200px;
-  height: 200px;
-  background: red;
+
+img {
+	max-width:100%;
 }
+	.col {
+		background: #ffffff; display:block; margin: 0 auto; text-align:center; 
+	}
+
+.droppletLogo {
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+
+.droppletLogo h2 {
+font-family: DistrictPro-Thin;
+font-size: 64px;
+color: #4FC3F7;
+}
+
+.link h3 {
+font-family: DistrictPro-Thin;
+font-size: 48px;
+white-space: nowrap;
+text-align: center;
+width: 100%;
+color: #4A4A4A;
+}
+
+.link h3 .word1{color:#4FC3F7;}
+.link h3 .word2{color:#4FC3F7;}
+.link h3 .word3{color:#4FC3F7;}
+
+
+
+div.section + div.section {margin-top: 50px;}
+
+/*Second HtML Page - Calibration.html */
+
+.calibrateLogo {
+	margin-bottom: 10px;
+}
+
+.calibrateLogo h2 {
+font-family: DistrictPro-Thin;
+font-size: 54px;
+color: #4FC3F7;
+}
+
+.middleLine h3 {
+	font-family: DistrictPro-Thin;
+	font-size: 36px;
+	color: #4A4A4A;
+	white-space: nowrap;
+	text-align: center;
+	width: 100%;
+	padding-bottom:20px;
+}
+
+.firstDroid h2{
+	font-family: DistrictPro-Thin;
+	font-size: 36px;
+	color: #4FC3F7;
+	white-space: nowrap;
+	text-align: center;
+	padding-top:10px;
+}
+
+.secondDroid h2{
+	font-family: DistrictPro-Thin;
+	font-size: 36px;
+	color: #4FC3F7;
+	white-space: nowrap;
+	text-align: center;
+	padding-top:10px;
+}
+
+.thirdDroid h2{
+	font-family: DistrictPro-Thin;
+	font-size: 36px;
+	color: #4FC3F7;
+	white-space: nowrap;
+	text-align: center;
+	padding-top:169px;
+}
+
+.middleLine h3 .word1{color:#4FC3F7;}
+.middleLine h3 .word2{color:#4FC3F7;}
+.middleLine h3 .word3{color:#4FC3F7;}
+
+/* Instructions.html*/
+.FastestDropplet h3 .word1{color:#4FC3F7;}
+.FastestDropplet h3 .word2{color:#4FC3F7;}
+.FastestDropplet h3 .word3{color:#4FC3F7;}
+
+.FastestDropplet {
+	font-family: DistrictPro-Thin;
+	font-size: 36px;
+	color: #4A4A4A;
+	white-space: nowrap;
+	text-align: center;
+}
+
+.TiltForward h4 .word1{color:#4FC3F7;}
+.TiltForward h4 .word2{color:#4FC3F7;}
+.TiltForward h4 .word3{color:#4FC3F7;}
+
+.TiltForward {
+	font-family: DistrictPro-Thin;
+	font-size: 32px;
+	color: #4A4A4A;
+	white-space: nowrap;
+	text-align: center;
+}
+
+
+.TiltLeft h4 .word1{color:#4FC3F7;}
+.TiltLeft h4 .word2{color:#4FC3F7;}
+.TiltLeft h4 .word3{color:#4FC3F7;}
+
+.TiltLeft {
+	font-family: DistrictPro-Thin;
+	font-size: 32px;
+	color: #4A4A4A;
+	white-space: nowrap;
+	text-align: center;
+}
+
+.TiltLeft h4 {
+	padding-top: 50px;
+}
+
+.TiltBackwards h4 .word1{color:#4FC3F7;}
+.TiltBackwards h4 .word2{color:#4FC3F7;}
+.TiltBackwards h4 .word3{color:#4FC3F7;}
+
+.TiltBackwards {
+	font-family: DistrictPro-Thin;
+	font-size: 32px;
+	color: #4A4A4A;
+	white-space: nowrap;
+	text-align: center;
+}
+
+.TiltBackwards h4 {
+	padding-top: 30px;
+}
+
+.TiltRight h4 .word1{color:#4FC3F7;}
+.TiltRight h4 .word2{color:#4FC3F7;}
+.TiltRight h4 .word3{color:#4FC3F7;}
+
+.TiltRight {
+	font-family: DistrictPro-Thin;
+	font-size: 32px;
+	color: #4A4A4A;
+	white-space: nowrap;
+	text-align: center;
+}
+
+.TiltRight h4 {
+	padding-top: 50px;
+}
+/* Instructions 2 */
+
+.Careful h3 .word1{color:#4FC3F7;}
+.Careful h3 .word2{color:#4FC3F7;}
+.Careful h3 .word3{color:#4FC3F7;}
+
+.Careful {
+	font-family: DistrictPro-Thin;
+	font-size: 32px;
+	color: #4A4A4A;
+	white-space: nowrap;
+	text-align: center;
+}
+
+.part1 {
+	padding-top: 15px;
+	margin-left: 50%;
+}
+
+.part2 {
+	padding-top: 15px;
+	margin-left: 33%;
+}
+
+.part3 {
+	padding-top:15px;
+	margin-left:33%;
+}
+
+.part4{
+	padding-top: 30px;
+	margin-right: 10px;
+}
+
+.part5{
+	padding-bottom: 20px;
+	margin-right: 33%;
+}
+
+
+.merge h3 .word1{color:#4FC3F7;}
+.merge h3 .word2{color:#4FC3F7;}
+.merge h3 .word3{color:#4FC3F7;}
+.merge h3 .word4{color:#4FC3F7;}
+.merge h3 .word5{color:#4FC3F7;}
+.merge h3 .word6{color:#4FC3F7;}
+.merge h3 .word10{color:black;}
+
+.merge{
+	font-family: DistrictPro-Thin;
+	font-size: 32px;
+	color: #4A4A4A;
+	white-space: nowrap;
+	text-align: center;
+}
+
+.more{
+	font-family: DistrictPro-Thin;
+	font-size: 32px;
+	color: #4A4A4A;
+	white-space: nowrap;
+	text-align: center;
+	padding-left: 5px;
+}
+
+.more h3{
+	margin-top:5px;
+	margin-left: 10px;
+}
+
+/* Line: 
+border: 1px solid #B3E5FC; */
